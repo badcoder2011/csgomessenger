@@ -1,0 +1,1 @@
+pyinstaller -F -n CSGO_MESSENGER --icon LCicon.ico  main.py
